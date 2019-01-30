@@ -20,19 +20,19 @@ self.__precacheManifest = [
     "url": "/vesnamakeup/static/js/runtime~main.bb38d464.js"
   },
   {
-    "revision": "a26b9ba12de0ed6a2c22",
-    "url": "/vesnamakeup/static/js/main.a26b9ba1.chunk.js"
+    "revision": "eddf4913f003861fde35",
+    "url": "/vesnamakeup/static/js/main.eddf4913.chunk.js"
   },
   {
     "revision": "b5b9ef4b0b865619775a",
     "url": "/vesnamakeup/static/js/1.b5b9ef4b.chunk.js"
   },
   {
-    "revision": "a26b9ba12de0ed6a2c22",
+    "revision": "eddf4913f003861fde35",
     "url": "/vesnamakeup/static/css/main.0d4362cb.chunk.css"
   },
   {
-    "revision": "5739879bd4685ba92f6c452450885caf",
+    "revision": "23e6689f3396c81490af0b6b72d3ad75",
     "url": "/vesnamakeup/index.html"
   }
 ];
