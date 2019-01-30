@@ -8,6 +8,7 @@
       "type": "image/x-icon"
     }
   ],
+  "homepage" : "https://qqweea.github.io/vesnamakeup",
   "start_url": ".",
   "display": "standalone",
   "theme_color": "#000000",
