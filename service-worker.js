@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/vesnamakeup/precache-manifest.c74c9cb9761b922fa569fd77423d0984.js"
+  "/vesnamakeup/precache-manifest.6b673f1b8b9ab4272a52e437f9b2e2bc.js"
 );
 
 workbox.clientsClaim();
