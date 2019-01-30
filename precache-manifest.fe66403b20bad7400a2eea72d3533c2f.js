@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/vesnamakeup/static/media/logo.a8dbf72f.svg"
   },
   {
-    "revision": "a9b552b33a3680f33a7e",
+    "revision": "9866e943898dc45af300",
     "url": "/vesnamakeup/static/css/main.663928a5.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = [
     "url": "/vesnamakeup/static/js/runtime~main.bb38d464.js"
   },
   {
-    "revision": "a9b552b33a3680f33a7e",
-    "url": "/vesnamakeup/static/js/main.a9b552b3.chunk.js"
+    "revision": "9866e943898dc45af300",
+    "url": "/vesnamakeup/static/js/main.9866e943.chunk.js"
   },
   {
     "revision": "22b7dd6a0468b091429a3803e9ffec56",
@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/vesnamakeup/static/css/1.174d706d.chunk.css"
   },
   {
-    "revision": "87c68fd7a308c310086e517630e5929d",
+    "revision": "d30a74c080a85da04b711691001a953e",
     "url": "/vesnamakeup/index.html"
   }
 ];

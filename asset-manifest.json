@@ -1,7 +1,7 @@
 {
   "main.css": "/vesnamakeup/static/css/main.663928a5.chunk.css",
-  "main.js": "/vesnamakeup/static/js/main.a9b552b3.chunk.js",
-  "main.js.map": "/vesnamakeup/static/js/main.a9b552b3.chunk.js.map",
+  "main.js": "/vesnamakeup/static/js/main.9866e943.chunk.js",
+  "main.js.map": "/vesnamakeup/static/js/main.9866e943.chunk.js.map",
   "static/css/1.174d706d.chunk.css": "/vesnamakeup/static/css/1.174d706d.chunk.css",
   "static/js/1.f8f3671c.chunk.js": "/vesnamakeup/static/js/1.f8f3671c.chunk.js",
   "static/js/1.f8f3671c.chunk.js.map": "/vesnamakeup/static/js/1.f8f3671c.chunk.js.map",
@@ -15,6 +15,6 @@
   "static/css/main.663928a5.chunk.css.map": "/vesnamakeup/static/css/main.663928a5.chunk.css.map",
   "static/css/1.174d706d.chunk.css.map": "/vesnamakeup/static/css/1.174d706d.chunk.css.map",
   "index.html": "/vesnamakeup/index.html",
-  "precache-manifest.6b673f1b8b9ab4272a52e437f9b2e2bc.js": "/vesnamakeup/precache-manifest.6b673f1b8b9ab4272a52e437f9b2e2bc.js",
+  "precache-manifest.fe66403b20bad7400a2eea72d3533c2f.js": "/vesnamakeup/precache-manifest.fe66403b20bad7400a2eea72d3533c2f.js",
   "service-worker.js": "/vesnamakeup/service-worker.js"
 }
