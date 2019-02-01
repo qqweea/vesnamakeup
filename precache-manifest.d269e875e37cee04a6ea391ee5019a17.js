@@ -4,24 +4,24 @@ self.__precacheManifest = [
     "url": "/vesnamakeup/static/media/logo.a8dbf72f.svg"
   },
   {
-    "revision": "9866e943898dc45af300",
-    "url": "/vesnamakeup/static/css/main.663928a5.chunk.css"
+    "revision": "fa6c4e0bebcaf0a10488",
+    "url": "/vesnamakeup/static/css/main.35c281d1.chunk.css"
   },
   {
     "revision": "b257fa9c5ac8c515ac4d77a667ce2943",
     "url": "/vesnamakeup/static/media/default-skin.b257fa9c.svg"
   },
   {
-    "revision": "f8f3671c0b01d857a76c",
-    "url": "/vesnamakeup/static/js/1.f8f3671c.chunk.js"
+    "revision": "5179fff96d711f63b941",
+    "url": "/vesnamakeup/static/js/1.5179fff9.chunk.js"
   },
   {
     "revision": "bb38d4645635cfc09736",
     "url": "/vesnamakeup/static/js/runtime~main.bb38d464.js"
   },
   {
-    "revision": "9866e943898dc45af300",
-    "url": "/vesnamakeup/static/js/main.9866e943.chunk.js"
+    "revision": "fa6c4e0bebcaf0a10488",
+    "url": "/vesnamakeup/static/js/main.fa6c4e0b.chunk.js"
   },
   {
     "revision": "22b7dd6a0468b091429a3803e9ffec56",
@@ -36,11 +36,11 @@ self.__precacheManifest = [
     "url": "/vesnamakeup/static/media/header.624ded49.jpg"
   },
   {
-    "revision": "f8f3671c0b01d857a76c",
+    "revision": "5179fff96d711f63b941",
     "url": "/vesnamakeup/static/css/1.174d706d.chunk.css"
   },
   {
-    "revision": "d30a74c080a85da04b711691001a953e",
+    "revision": "f55722fbc7a59d05d8c6636db28c5fea",
     "url": "/vesnamakeup/index.html"
   }
 ];

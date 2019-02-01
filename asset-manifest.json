@@ -1,10 +1,10 @@
 {
-  "main.css": "/vesnamakeup/static/css/main.663928a5.chunk.css",
-  "main.js": "/vesnamakeup/static/js/main.9866e943.chunk.js",
-  "main.js.map": "/vesnamakeup/static/js/main.9866e943.chunk.js.map",
+  "main.css": "/vesnamakeup/static/css/main.35c281d1.chunk.css",
+  "main.js": "/vesnamakeup/static/js/main.fa6c4e0b.chunk.js",
+  "main.js.map": "/vesnamakeup/static/js/main.fa6c4e0b.chunk.js.map",
   "static/css/1.174d706d.chunk.css": "/vesnamakeup/static/css/1.174d706d.chunk.css",
-  "static/js/1.f8f3671c.chunk.js": "/vesnamakeup/static/js/1.f8f3671c.chunk.js",
-  "static/js/1.f8f3671c.chunk.js.map": "/vesnamakeup/static/js/1.f8f3671c.chunk.js.map",
+  "static/js/1.5179fff9.chunk.js": "/vesnamakeup/static/js/1.5179fff9.chunk.js",
+  "static/js/1.5179fff9.chunk.js.map": "/vesnamakeup/static/js/1.5179fff9.chunk.js.map",
   "runtime~main.js": "/vesnamakeup/static/js/runtime~main.bb38d464.js",
   "runtime~main.js.map": "/vesnamakeup/static/js/runtime~main.bb38d464.js.map",
   "static/media/logo.svg": "/vesnamakeup/static/media/logo.a8dbf72f.svg",
@@ -12,9 +12,9 @@
   "static/media/header.jpg": "/vesnamakeup/static/media/header.624ded49.jpg",
   "static/media/photoswipe.css": "/vesnamakeup/static/media/default-skin.b257fa9c.svg",
   "static/media/brush.svg": "/vesnamakeup/static/media/brush.22b7dd6a.svg",
-  "static/css/main.663928a5.chunk.css.map": "/vesnamakeup/static/css/main.663928a5.chunk.css.map",
+  "static/css/main.35c281d1.chunk.css.map": "/vesnamakeup/static/css/main.35c281d1.chunk.css.map",
   "static/css/1.174d706d.chunk.css.map": "/vesnamakeup/static/css/1.174d706d.chunk.css.map",
   "index.html": "/vesnamakeup/index.html",
-  "precache-manifest.fe66403b20bad7400a2eea72d3533c2f.js": "/vesnamakeup/precache-manifest.fe66403b20bad7400a2eea72d3533c2f.js",
+  "precache-manifest.d269e875e37cee04a6ea391ee5019a17.js": "/vesnamakeup/precache-manifest.d269e875e37cee04a6ea391ee5019a17.js",
   "service-worker.js": "/vesnamakeup/service-worker.js"
 }
